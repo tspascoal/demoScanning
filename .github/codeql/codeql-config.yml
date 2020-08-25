@@ -2,4 +2,3 @@ queries:
  - uses: 
     - security-and-quality
     - security-extended
-    - code-review
